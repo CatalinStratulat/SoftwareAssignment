@@ -20,7 +20,7 @@ class CourseProgrammeTest
 
         course.setName("newNameTest");
         String actual2 = course.getName();
-        Assert.assertEquals("newNameTest",actual2);
+        Assert.assertEquals("FailHere",actual2);
     }
 
     @Test
