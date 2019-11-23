@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IE"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-13.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\catal\AppData\Local\Temp\surefire14905165272114063870\surefirebooter14324982261792753982.jar C:\Users\catal\AppData\Local\Temp\surefire14905165272114063870 2019-11-23T15-00-39_080-jvmRun1 surefire14671744769555058885tmp surefire_09061305502522610235tmp"/>
+    <property name="sun.java.command" value="C:\Users\catal\AppData\Local\Temp\surefire11411987101243732779\surefirebooter8210573148192230288.jar C:\Users\catal\AppData\Local\Temp\surefire11411987101243732779 2019-11-23T15-09-20_200-jvmRun1 surefire1093232666453914791tmp surefire_010900026878888958038tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\catal\IdeaProjects\SoftwareAssignment2\target\test-classes;C:\Users\catal\IdeaProjects\SoftwareAssignment2\target\classes;C:\Users\catal\.m2\repository\junit\junit\4.13-rc-1\junit-4.13-rc-1.jar;C:\Users\catal\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\catal\.m2\repository\org\junit\jupiter\junit-jupiter\5.6.0-M1\junit-jupiter-5.6.0-M1.jar;C:\Users\catal\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0-M1\junit-jupiter-api-5.6.0-M1.jar;C:\Users\catal\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\catal\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\catal\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0-M1\junit-platform-commons-1.6.0-M1.jar;C:\Users\catal\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0-M1\junit-jupiter-params-5.6.0-M1.jar;C:\Users\catal\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0-M1\junit-jupiter-engine-5.6.0-M1.jar;C:\Users\catal\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0-M1\junit-platform-engine-1.6.0-M1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="idea.version2019.2.4" value="true"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\catal\AppData\Local\Temp\surefire14905165272114063870\surefirebooter14324982261792753982.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\catal\AppData\Local\Temp\surefire11411987101243732779\surefirebooter8210573148192230288.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="13.0.1+9"/>
